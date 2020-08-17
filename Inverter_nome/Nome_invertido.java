@@ -6,8 +6,11 @@ public class Nome_invertido {
 
         Scanner name = new Scanner(System.in);
         System.out.println("Informe um nome: ");
+        
         int cont;
+        
         String names = name.nextLine();
+        
         cont = names.length();
 
         while (!(cont == 0)) {
