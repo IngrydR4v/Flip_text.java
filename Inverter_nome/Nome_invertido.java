@@ -4,8 +4,6 @@ public class Nome_invertido {
 
     public static void inverterNome() {
 
-        //Algoritmo que leia o nome do usuário e retorne o nome invertido.
-
         Scanner name = new Scanner(System.in);
         System.out.println("Informe um nome: ");
         int cont;
