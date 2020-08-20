@@ -16,7 +16,6 @@ public class Nome_invertido {
         while (!(cont == 0)) {
             cont--;
             System.out.print(names.charAt(cont));
-
         }
     }
 }
